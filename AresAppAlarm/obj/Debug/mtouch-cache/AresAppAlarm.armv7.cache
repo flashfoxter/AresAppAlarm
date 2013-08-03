@@ -1,0 +1,1 @@
+--debug --aot=mtriple=armv7-darwin,full,static,asmonly,direct-icalls,soft-debug,no-direct-calls,iphone-abi,outfile=/AresAppAlarm.exe.armv7.s "/Users/konstantinlevashkin/Projects/AresAppAlarm/AresAppAlarm/bin/iPhone/Debug/AresAppAlarm.exe"

@@ -1,0 +1,38 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.iPhone root" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AresAppAlarm/AresAppAlarmViewController.cs">
+    <Files>
+      <File FileName="AresAppAlarm/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="AresAppAlarm/AresAppAlarmViewController.cs" Line="98" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="AresAppAlarm" expanded="True">
+            <Node name="AresAppAlarmViewController.xib" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>value</Value>
+          <Value>context</Value>
+          <Value>section.cellkey</Value>
+        </State>
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../Desktop/From Flash/Projects/JeansProject/JeansProject/JeansProjectViewController.cs" line="909" offsetX="793" offsetY="12416" expression="rootElement" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
